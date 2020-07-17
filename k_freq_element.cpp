@@ -19,7 +19,7 @@ vector<int> topKFrequent(vector<int>& nums, int k) {
         cout << "hello " << i << endl;
         cout << to_sort[i].second << endl;
         result.push_back(to_sort[i].second);
-        if(i==0) break;
+        //if(i==0) break;
     }
     return result;
 }
