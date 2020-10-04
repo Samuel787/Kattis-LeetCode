@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+// dp array for memoization
 int dp[700][50001];
 
 int generate_dp(int delta_rate, int curr_height, int initial_rate, int max_height, vector<bool> &isSacred){
@@ -26,6 +28,8 @@ int generate_dp(int delta_rate, int curr_height, int initial_rate, int max_heigh
     } else {
         curr_rate = initial_rate + delta_rate;
     }
+
+    // decrement growth rate by 1
     if(curr_rate > 1){
         int new_rate = curr_rate - 1;
         int new_delta_rate;
@@ -64,6 +68,7 @@ int generate_dp(int delta_rate, int curr_height, int initial_rate, int max_heigh
 
     }
 
+    // keep the rate the same
     if(curr_height + curr_rate <= max_height){
 
         int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
