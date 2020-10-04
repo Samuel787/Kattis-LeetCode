@@ -3,6 +3,7 @@ using namespace std;
 
 // dp array for memoization
 int dp[700][50001];
+int options[3] = {-1, 1, 0};
 
 int generate_dp(int delta_rate, int curr_height, int initial_rate, int max_height, vector<bool> &isSacred){
     if(curr_height > max_height){
@@ -29,54 +30,27 @@ int generate_dp(int delta_rate, int curr_height, int initial_rate, int max_heigh
         curr_rate = initial_rate + delta_rate;
     }
 
-    // decrement growth rate by 1
-    if(curr_rate > 1){
-        int new_rate = curr_rate - 1;
-        int new_delta_rate;
-        if(new_rate < initial_rate){
-            new_delta_rate = 320 + (initial_rate - new_rate);
+    for(int i : options){
+        if(i == -1 && curr_rate <= 1){
+            continue;
         } else {
-            new_delta_rate = new_rate - initial_rate;
-        }
-        if(curr_height + new_rate <= max_height){
-            int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
-            if(isSacred[curr_height]){
-                dp_result++;
+            int new_rate = curr_rate + i;
+            int new_delta_rate;
+            if(new_rate < initial_rate){
+                new_delta_rate = 320 + (initial_rate - new_rate);
+            } else {
+                new_delta_rate = new_rate - initial_rate;
             }
-            if(dp_result > dp[delta_rate][curr_height]){
-                dp[delta_rate][curr_height] = dp_result;
+            if(curr_height + new_rate <= max_height){
+                int dp_result = generate_dp(n
+                ew_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
+                if(isSacred[curr_height]){
+                    dp_result++;
+                } 
+                if(dp_result > dp[delta_rate][curr_height]){
+                    dp[delta_rate][curr_height] = dp_result;
+                }
             }
-        }
-    }
-
-    // increment the rate by 1
-    int new_rate = curr_rate + 1;
-    int new_delta_rate;
-    if(new_rate < initial_rate){
-        new_delta_rate = 320 + (initial_rate - new_rate);
-    } else {
-        new_delta_rate = new_rate - initial_rate;
-    }
-    if(curr_height + new_rate <= max_height){
-        int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
-        if(isSacred[curr_height]){
-            dp_result++;
-        }
-        if(dp_result > dp[delta_rate][curr_height]){
-            dp[delta_rate][curr_height] = dp_result;
-        }
-
-    }
-
-    // keep the rate the same
-    if(curr_height + curr_rate <= max_height){
-
-        int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
-        if(isSacred[curr_height]){
-            dp_result++;
-        }
-        if(dp_result > dp[delta_rate][curr_height]){
-            dp[delta_rate][curr_height] = dp_result;
         }
     }
     return dp[delta_rate][curr_height];
