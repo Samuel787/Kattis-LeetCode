@@ -1,54 +1,104 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+int dp[700][50001];
 
-int maximum = 0;
-vector<bool> sacred_heights;
-vector<int> dp_heights;
-int height_limit;
+int generate_dp(int delta_rate, int curr_height, int initial_rate, int max_height, vector<bool> &isSacred){
+    if(curr_height > max_height){
+        return 0;
+    }
+    if(curr_height == max_height){
+        if(isSacred[curr_height]){
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+    if(dp[delta_rate][curr_height] != -1){
+        return dp[delta_rate][curr_height];
+    }
 
-void helper(int curr_height, int r, int max){
-    if(curr_height > height_limit){
-        return; // we do not explore this path
+    if(isSacred[curr_height]){
+        dp[delta_rate][curr_height] = 1;
     }
-    if(sacred_heights[curr_height]){
-        max += 1;
-    }
-    if(dp_heights[curr_height] > max){
-        //we don't want this path
-        return;
+    int curr_rate;
+    if(delta_rate > 320){
+        curr_rate = initial_rate - delta_rate + 320;
     } else {
-        // this is the prominent path, branch from here
-        dp_heights[curr_height] = max;
-        if(max > maximum){
-            maximum = max;
+        curr_rate = initial_rate + delta_rate;
+    }
+    if(curr_rate > 1){
+        int new_rate = curr_rate - 1;
+        int new_delta_rate;
+        if(new_rate < initial_rate){
+            new_delta_rate = 320 + (initial_rate - new_rate);
+        } else {
+            new_delta_rate = new_rate - initial_rate;
         }
-        helper(curr_height + r, r, max);
-        helper(curr_height + r + 1, r+ 1, max);
-        if(r > 1){
-            helper(curr_height + r - 1, r-1, max);
+        if(curr_height + new_rate <= max_height){
+            int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
+            if(isSacred[curr_height]){
+                dp_result++;
+            }
+            if(dp_result > dp[delta_rate][curr_height]){
+                dp[delta_rate][curr_height] = dp_result;
+            }
         }
     }
+
+    // increment the rate by 1
+    int new_rate = curr_rate + 1;
+    int new_delta_rate;
+    if(new_rate < initial_rate){
+        new_delta_rate = 320 + (initial_rate - new_rate);
+    } else {
+        new_delta_rate = new_rate - initial_rate;
+    }
+    if(curr_height + new_rate <= max_height){
+        int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
+        if(isSacred[curr_height]){
+            dp_result++;
+        }
+        if(dp_result > dp[delta_rate][curr_height]){
+            dp[delta_rate][curr_height] = dp_result;
+        }
+
+    }
+
+    if(curr_height + curr_rate <= max_height){
+
+        int dp_result = generate_dp(new_delta_rate, curr_height + new_rate, initial_rate, max_height, isSacred);
+        if(isSacred[curr_height]){
+            dp_result++;
+        }
+        if(dp_result > dp[delta_rate][curr_height]){
+            dp[delta_rate][curr_height] = dp_result;
+        }
+    }
+    return dp[delta_rate][curr_height];
 }
 
 int main(){
-    int r_orig;
-    cin >> r_orig;
-    cin >> height_limit;
-    string data;
-    cin >> data;
-    
-    for(int i = 0; i < data.size(); i++){
-        if(data[i] == 's'){
-            sacred_heights.push_back(true);
-        } else {
-            sacred_heights.push_back(false);
+    int rorig, max_height;
+    cin >> rorig;
+    cin >> max_height;
+    string sacred_string;
+    cin >> sacred_string;
+    vector<bool> isSacred;
+    isSacred.push_back(false); //dummy
+    for(int i = 0; i < sacred_string.size(); i++){
+        if(sacred_string[i + 1] == '.'){
+            isSacred.push_back(false);
+        } else if(sacred_string[i + 1] == 's'){
+            isSacred.push_back(true);
         }
     }
 
-    for(int i = 0; i <= height_limit; i++){
-        dp_heights.push_back(-1);
+    for(int i = 0; i < 700; i++){
+        for(int j = 0; j <= 50000; j++){
+            dp[i][j] = -1;
+        }
     }
 
-    helper(0, r_orig, 0);
-    cout << maximum << endl;
+    int result = generate_dp(0, 0, rorig, max_height, isSacred);
+    cout << result << endl;
 }
