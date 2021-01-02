@@ -103,7 +103,7 @@ def is_valid(line):
             return False
     else:
         return False
-        
+
     return True
     
 # Using readlines() 
