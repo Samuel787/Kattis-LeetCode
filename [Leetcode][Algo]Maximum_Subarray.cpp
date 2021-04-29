@@ -1,19 +1,16 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int start = 0;
-        int end = 0;
-        int running_sum = nums[0];
-        int total_max = running_sum;
+        int running_max = nums[0];
+        int current_max = running_max;
         for(int i = 1; i < nums.size(); i++){
-            if(running_sum + nums[i] >= running_sum){
-                running_sum += nums[i];
+            if(running_max + nums[i] >= nums[i]){
+                running_max += nums[i];
             } else {
-                running_sum = nums[i];
+                running_max = nums[i];
             }
-            total_max = max(total_max, running_sum);
-            cout << "iteration: " << i << "running sum: " << running_sum << endl;
+            current_max = max(current_max, running_max);
         }
-        return total_max;
+        return current_max;
     }
 };
