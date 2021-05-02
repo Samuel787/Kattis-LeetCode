@@ -11,7 +11,6 @@ const getArrMin = (arr) => {
     return min;
 }
 
-
 const calcSum = (target, arr, min_in_arr=null) => {
     if(target == 0){
         return true;
@@ -32,4 +31,4 @@ const calcSum = (target, arr, min_in_arr=null) => {
 
 arr = [5,3,4,7];
 console.log(calcSum(7, arr));
-
+console.log(calcSum(300, [7, 14])); // this will take too long -> goal: optimise with memoization
