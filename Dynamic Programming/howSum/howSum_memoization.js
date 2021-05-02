@@ -24,3 +24,4 @@ function howSum(target, arr, memo={}){
 
 console.log("This is the result, ", howSum(7, [5,4,3]))
 console.log("This is the result, ", howSum(300, [7,14]))
+console.log("This is the target: 8", howSum(8, [2,3,5]));
