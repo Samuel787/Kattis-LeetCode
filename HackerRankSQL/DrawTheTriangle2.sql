@@ -1,0 +1,7 @@
+/*
+Enter your query here.
+*/
+SET @COUNTER = 0;
+SELECT REPEAT('* ', @COUNTER := @COUNTER + 1)
+FROM INFORMATION_SCHEMA.TABLES
+LIMIT 20;
