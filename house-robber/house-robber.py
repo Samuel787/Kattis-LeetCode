@@ -4,21 +4,36 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        if len(nums) == 1:
+            return nums[0]
+        elif len(nums) == 2:
+            return max(nums)
         dp = []
-        for i in range(len(nums)):
-            if i == 0:
-                dp.append([nums[i], 0])
-            elif i == 1:
-                dp.append([nums[i], dp[i - 1][0]])
-            elif i == 2:
-                dp.append([nums[i] + dp[i - 2][0], dp[i - 1][0]])
-            else:
-                dp.append([nums[i] + max(dp[i - 2][0], dp[i - 2][1]), max(dp[i - 1][0], dp[i-1][1])])
+        dp.append([nums[0], 0])
+        dp.append([nums[1], nums[0]])
+        max_val = max(nums)
+        for i in range(2, len(nums)):
+            # case where i rob this
+            x = dp[i-1][1]
+            y = dp[i - 2][0]
+            z = dp[i - 2][1]
+            rob = nums[i] + max(x, y, z)
+
+            # case where i don't rob this
+            x = dp[i-1][0]
+            y = dp[i-1][1]
+            w = dp[i-2][0]
+            z = dp[i-2][1]
+            dont_rob = max(x, y, w, z)
+            
+            dp.append([rob, dont_rob])
+            if max(rob, dont_rob) > max_val:
+                max_val = max(rob, dont_rob)
                 
-        final_max = -1
-        for i in range(len(dp)):
-            temp_max = max(dp[i][0], dp[i][1])
-            if temp_max > final_max:
-                final_max = temp_max
-        return final_max
+        return max_val
+            
+            
+            
+        
+        
         
