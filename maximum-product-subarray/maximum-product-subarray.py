@@ -4,11 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        res = max(nums)
-        currMax, currMin = 1, 1
-        for num in nums:
-            temp = currMax
-            currMax = max(currMax * num, currMin * num, num)
-            currMin = min(temp * num, currMin * num, num)
-            res = max(currMax, res)
-        return res
+        max_product = nums[0]
+        min_product = nums[0]
+        maximum = max_product
+        for i in nums[1:]:
+            temp_min = min_product
+            min_product = min(i, min_product * i, max_product * i)
+            max_product = max(i, temp_min * i, max_product * i)
+            maximum = max(maximum, max_product)
+        return maximum
