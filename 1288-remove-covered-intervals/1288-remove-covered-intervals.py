@@ -8,7 +8,7 @@ class Solution(object):
         curr = intervals[0]
         number = 1
         for interval in intervals[1:]:
-            if interval[0] == curr[0] and interval[1] > curr[0]:
+            if interval[0] == curr[0] and interval[1] > curr[1]:
                 curr = interval
             elif interval[1] <= curr[1]:
                 continue
