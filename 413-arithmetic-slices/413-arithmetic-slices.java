@@ -13,7 +13,6 @@ class Solution {
                 curr_diff = nums[i] - nums[i - 1];
             }
         }
-        System.out.println("start: " + start);
         result += getCount(start, nums.length - 1);
         return result;
     }
