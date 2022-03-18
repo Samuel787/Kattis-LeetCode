@@ -24,18 +24,6 @@ class Solution(object):
                 res = res[:-1]
             res += i
             isAddedMap[i] = True
-            
-            # if res == "":
-            #     res += i
-            #     freqMap[i] -= 1
-            #     isAddedMap[i] = True
-            # else:
-            #     while (len(res) != 0 and res[-1] > i and freqMap[res[-1]] > 0):
-            #         isAddedMap[res[-1]] = False
-            #         res = res[:-1]
-            #     res += i
-            #     isAddedMap[i] = True
-            #     freqMap[i] -= 1
         
         return res
                     
