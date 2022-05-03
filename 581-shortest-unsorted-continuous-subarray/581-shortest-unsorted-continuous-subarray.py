@@ -13,7 +13,7 @@ class Solution(object):
             leftIndex += 1
         if leftIndex == len(nums) - 1:
             return 0
-        print("This is the leftIndex: " + str(leftIndex))
+        # print("This is the leftIndex: " + str(leftIndex))
         
         # check the right side
         rightIndex = len(nums) - 1
@@ -21,11 +21,11 @@ class Solution(object):
             if nums[rightIndex] < nums[i]:
                 break
             rightIndex -= 1
-        print("This is the right Index: " + str(rightIndex))
+        # print("This is the right Index: " + str(rightIndex))
         
         windowMax = max(nums[leftIndex:rightIndex + 1])
         windowMin = min(nums[leftIndex:rightIndex + 1])
-        print("window min:" + str(windowMin) + "window max: " + str(windowMax))
+        # print("window min:" + str(windowMin) + "window max: " + str(windowMax))
         finalLeft = leftIndex
         while finalLeft >= 0 and nums[finalLeft] > windowMin :
             finalLeft -= 1
