@@ -4,16 +4,34 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        stack = []
-        stack.append(-1)
         maxx = 0
-        for i in range(len(s)):
-            if s[i] == "(":
-                stack.append(i)
-            elif s[i] == ")":
-                stack.pop()
-                if len(stack) == 0:
-                    stack.append(i)
-                else:
-                    maxx = max(maxx, i - stack[-1])
+        open = 0
+        close = 0
+        for i in s:
+            if i == "(":
+                open += 1
+            else:
+                close += 1
+            if open == close:
+                maxx = max(maxx, open + close)
+            elif close > open:
+                open = 0
+                close = 0
+                
+        open = 0
+        close = 0
+        for i in reversed(s):
+            if i == "(":
+                open += 1
+            if i == ")":
+                close += 1
+            if open == close:
+                maxx = max(maxx, open + close)
+            elif open > close:
+                open = 0
+                close = 0
         return maxx
+    
+    
+        
+        
