@@ -9,7 +9,6 @@ class Solution(object):
         if size % groupSize != 0:
             return False
         sortedHands = sorted(hand)
-        # print("This is the sorted list: " + str(sortedHands))
         expectedNumberGroups = size / groupSize
         currentGroups = 0
         nextStartPointer = 0
@@ -24,8 +23,6 @@ class Solution(object):
             debugger_current_group = []
             # trying to get 1 group from the remaining cards in the hand
             while currentGroupSize < groupSize and currentIndex < size:
-                # print("current start pointer: " + str(nextStartPointer) + "current group: " + str(debugger_current_group) + " current index: " + str(currentIndex))
-
                 # current index is invalid
                 if sortedHands[currentIndex] == -1:
                     currentIndex += 1
@@ -40,8 +37,6 @@ class Solution(object):
                     continue
                 # We have card [n] but there doesn't exist [n+1]. Instant fail
                 if sortedHands[currentIndex] > prevCard + 1:
-                    # print("Returning false here: ")
-                    self.print_list(debugger_current_group)
                     return False
                 # Ideal case, we make use of the card in the current position
                 elif sortedHands[currentIndex] == prevCard + 1:
@@ -55,12 +50,9 @@ class Solution(object):
                     if not isNextStartPointerSet:
                         isNextStartPointerSet = True
                         nextStartPointer = currentIndex
-                        # print("Next start pointer is set at index: " + str(nextStartPointer))
                     if currentIndex == size - 1:
                         return False
                     currentIndex += 1
-            # print("Full group here:")
-            self.print_list(debugger_current_group)
 
             if not isNextStartPointerSet:
                 nextStartPointer = currentIndex
@@ -69,13 +61,6 @@ class Solution(object):
                 return False
             currentGroups += 1
         return currentGroups == expectedNumberGroups
-
-    def print_list(self, mList):
-        result = "["
-        for i in mList:
-            result += str(i)
-        result += "]"
-        print(result)
                 
 
                 
