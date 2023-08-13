@@ -11,57 +11,52 @@ class Solution(object):
         """
         if lists == None or len(lists) == 0:
             return None
-        mergedLists = lists
-        while len(mergedLists) > 1:
-            currentLists = []
-            for i in range(0, len(mergedLists), 2):
-                if (i + 1) < len(mergedLists):
-                    combinedList = self.mergeLists(mergedLists[i], mergedLists[i + 1])
-                    # print("CombinedList: " + str(self.print_linkedlist(combinedList))) 
-                    currentLists.append(combinedList)
+
+        while len(lists) > 1:
+            mergedLists = []
+            for i in range(0, len(lists), 2):
+                j = i + 1
+                if j < len(lists):
+                    mergedLists.append(self.merge2Lists(lists[i], lists[j]))
                 else:
-                    currentLists.append(mergedLists[i])
-            mergedLists = currentLists
-            # printerHelper = [self.print_linkedlist(i) for i in mergedLists]
-            # print("Merged lists: " + str(printerHelper))
-        return mergedLists[0]
+                    mergedLists.append(lists[i])
+            lists = mergedLists
+        return lists[0]
         
-    def mergeLists(self, listOne, listTwo):
+    # This method gives u head
+    def merge2Lists(self, one, two):
+        if one == None and two == None:
+            return None
         head = None
         curr = None
-        prev = None
-        while listOne != None and listTwo != None:
-            if listOne.val < listTwo.val:
-                curr = listOne
-                listOne = listOne.next
+        while one != None and two != None:
+            if one.val <= two.val:
+                if curr == None:
+                    curr = one
+                    head = curr
+                else:
+                    curr.next = one
+                    curr = curr.next
+                one = one.next
             else:
-                curr = listTwo
-                listTwo = listTwo.next
+                if curr == None:
+                    curr = two
+                    head = curr
+                else:
+                    curr.next = two
+                    curr = curr.next
+                two = two.next
+        
+        if one != None:
             if head == None:
-                head = curr
-                # print("Set head to this: " + str(head.val))
-            if prev == None:
-                prev = curr
+                head = one
             else:
-                prev.next = curr
-                prev = curr
-
-        if prev == None:
-            if listOne != None:
-                return listOne
+                curr.next = one
+            
+        if two != None:
+            if head == None:
+                head = two
             else:
-                return listTwo
-
-        if listOne != None:
-            prev.next = listOne
-        if listTwo != None:
-            prev.next = listTwo
+                curr.next = two
+        
         return head
-
-    def print_linkedlist(self, ll):
-        curr = ll
-        result = []
-        while curr != None:
-            result.append(curr.val)
-            curr = curr.next
-        return result
