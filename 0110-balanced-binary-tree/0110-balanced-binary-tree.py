@@ -15,7 +15,6 @@ class Solution(object):
         rightHeight = 1 + self.getNodeHeight(root.right)
         leftHeight = 1+ self.getNodeHeight(root.left)
         if abs(rightHeight - leftHeight) > 1:
-            print("Not balanced at node: " + str(root.val) + " leftHeight: " + str(leftHeight) + " right height: " + str(rightHeight))
             return False
         if root.right != None:
             if not self.isBalanced(root.right):
