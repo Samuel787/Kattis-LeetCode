@@ -8,33 +8,19 @@ class Solution(object):
         :rtype: List[int]
         """
         result = []
-        mDeque = deque(result)
+        mDeque = deque([])
 
-        # initialize initial window
-        for i in range(k):
+        for i in range(0, len(nums), 1):
             if len(mDeque) == 0:
                 mDeque.append(nums[i])
             else:
+                if (i - k) >= 0:
+                    if mDeque[0] == nums[i - k]:
+                        mDeque.popleft()
                 while len(mDeque) > 0 and mDeque[-1] < nums[i]:
                     mDeque.pop()
                 mDeque.append(nums[i])
-        
-        # print('1 => ' + str(list(mDeque)))
-        result.append(mDeque[0])
 
-        # count = 2
-        currIdx = k
-        while currIdx < len(nums):
-            while len(mDeque) > 0 and mDeque[-1] < nums[currIdx]:
-                mDeque.pop()
-            # print("currIdx " + str(currIdx) + " ==> This the deque: " + str(mDeque))
-            # print("This is the value of nums[idx -k]: " + str(nums[currIdx - k]))
-            if len(mDeque) > 0 and (nums[currIdx - k]) == mDeque[0]:
-                mDeque.popleft()
-            mDeque.append(nums[currIdx])
-            result.append(mDeque[0])
-            # print(str(count) + " => " + str(list(mDeque))) 
-            currIdx += 1
-            # count += 1
-
-        return list(result)
+            if i >= k - 1:
+                result.append(mDeque[0])
+        return result
