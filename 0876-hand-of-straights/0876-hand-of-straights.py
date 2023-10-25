@@ -5,62 +5,54 @@ class Solution(object):
         :type groupSize: int
         :rtype: bool
         """
-        size = len(hand)
-        if size % groupSize != 0:
-            return False
-        sortedHands = sorted(hand)
-        expectedNumberGroups = size / groupSize
-        currentGroups = 0
-        nextStartPointer = 0
-        isNextStartPointerSet = True
-        prevCard = None
-        currentIndex = 0
-        # trying to form the desired number of groups
-        while currentGroups < expectedNumberGroups:
-            isNextStartPointerSet = False
-            currentGroupSize = 0
-            currentIndex = nextStartPointer
-            debugger_current_group = []
-            # trying to get 1 group from the remaining cards in the hand
-            while currentGroupSize < groupSize and currentIndex < size:
-                # current index is invalid
-                if sortedHands[currentIndex] == -1:
-                    currentIndex += 1
+        hand.sort()
+        count = 0
+        next_ptr = 0
+        curr_ptr = 0
+        # print("hands at start: " + str(hand))
+        while count < len(hand):
+            curr_size = 0
+            curr_ptr = next_ptr if next_ptr != -1 else curr_ptr
+
+            # try to form a group
+            # curr_group = [] # for debugging purposes
+            prev = None
+            while curr_size < groupSize and curr_ptr < len(hand):
+                if hand[curr_ptr] == -1:
+                    curr_ptr += 1
                     continue
-                # start of a new group
-                if prevCard == None:
-                    prevCard = sortedHands[currentIndex]
-                    debugger_current_group.append(prevCard)
-                    sortedHands[currentIndex] = -1
-                    currentGroupSize += 1
-                    currentIndex += 1
-                    continue
-                # We have card [n] but there doesn't exist [n+1]. Instant fail
-                if sortedHands[currentIndex] > prevCard + 1:
+                if prev == None:
+                    prev = hand[curr_ptr]
+                    # curr_group.append(hand[curr_ptr])
+                    hand[curr_ptr] = -1
+                    next_ptr = -1
+                    # print("hands: " + str(hand))
+                elif hand[curr_ptr] == prev + 1:
+                    prev += 1
+                    # curr_group.append(hand[curr_ptr])
+                    hand[curr_ptr] = -1
+                    # print("hands: " + str(hand))
+                elif hand[curr_ptr] > prev + 1:
+                    # we can't form a complete group currently
+                    # print("Cannot form group: " + str(curr_group))
                     return False
-                # Ideal case, we make use of the card in the current position
-                elif sortedHands[currentIndex] == prevCard + 1:
-                    prevCard = sortedHands[currentIndex]
-                    debugger_current_group.append(prevCard)
-                    sortedHands[currentIndex] = -1
-                    currentGroupSize += 1
-                    currentIndex += 1
-                # We skip the card. Same card
                 else:
-                    if not isNextStartPointerSet:
-                        isNextStartPointerSet = True
-                        nextStartPointer = currentIndex
-                    if currentIndex == size - 1:
-                        return False
-                    currentIndex += 1
+                    # skip because hand[curr_ptr] == prev
+                    if next_ptr == -1:
+                        next_ptr = curr_ptr
+                    curr_ptr += 1
+                    continue
+                curr_size += 1
+                curr_ptr += 1
+                count += 1
 
-            if not isNextStartPointerSet:
-                nextStartPointer = currentIndex
-            prevCard = None
-            if currentGroupSize < groupSize:
+            if curr_size == groupSize:
+                # print("found a complete group: " + str(curr_group))
+                # print("now hands: " + str(hand))
+                continue
+
+            if curr_ptr == len(hand) and curr_size < groupSize:
+                # print("Cannot form group: " + str(curr_group))
                 return False
-            currentGroups += 1
-        return currentGroups == expectedNumberGroups
-                
 
-                
+        return True
