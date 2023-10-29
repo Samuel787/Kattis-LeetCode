@@ -5,37 +5,33 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
-        isNums1Smaller = len(nums1) < len(nums2)
-        list1 = nums1 if isNums1Smaller else nums2
-        list2 = nums2 if isNums1Smaller else nums1
+        total = len(nums1) + len(nums2)
+        half = total // 2
 
-        totalElements = len(nums1) + len(nums2)
-        half = totalElements // 2
-
-        leftIdx, rightIdx = 0, len(list1) - 1
-        print("infinity: " + str(float("infinity")))
-        # time complexity: Log(min(n, m))
+        A, B = nums1, nums2
+        if len(A) > len(B):
+            A, B = B, A # ensure smaller arr is A
+        
+        l, r = 0, len(A) - 1
+        
         while True:
-            midFirst = (leftIdx + rightIdx) // 2
-            midSecond = half - (midFirst + 1) - 1
+            mid = (l + r) // 2 # A
+            j = half - (mid + 1) - 1 # B
 
-            # using if conditions to check out of bounds
-            list1Left = list1[midFirst] if midFirst >= 0 else float("-infinity")
-            list1Right = list1[midFirst + 1] if (midFirst + 1) < len(list1) else float("infinity")
-            
-            list2Left = list2[midSecond] if midSecond >= 0 else float("-infinity")
-            list2Right = list2[midSecond + 1] if (midSecond + 1) < len(list2) else float("infinity")
+            aLeft = A[mid] if mid >= 0 else float("-inf")
+            aRight = A[mid + 1] if (mid + 1) < len(A) else float("inf")
+            bLeft = B[j] if j >= 0 else float("-inf")
+            bRight = B[j + 1] if (j + 1) < len(B) else float("inf")
 
             # partition is correct
-            if list1Left <= list2Right and list2Left <= list1Right:
-                # odd
-                if totalElements % 2 == 1:
-                    return min(list1Right, list2Right) # both will not be equal to infinity
-                # even
+            if aLeft <= bRight and bLeft <= aRight:
+                if total % 2 == 1:
+                    return min(aRight, bRight)
                 else:
-                    return (max(list1Left, list2Left) + min(list1Right, list2Right)) / 2.0
-            elif list1Left > list2Right: 
-                rightIdx = midFirst - 1 # too many elements from list1 in leftPartition
-            else:
-                leftIdx = midFirst + 1 # too little elements from list1 in leftPartition
+                    return (max(aLeft, bLeft) + min(aRight, bRight)) / 2.0
+            elif aLeft > bRight: # => we need to decrease elements in A
+                r = mid - 1
+            else: # bLeft > aRight => we need more elements from A
+                l = mid + 1 # 
+        return -1
 
