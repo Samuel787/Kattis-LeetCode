@@ -11,6 +11,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Tree
 |  |
@@ -31,4 +32,9 @@ My solutions to kattis problems
 # Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
