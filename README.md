@@ -33,8 +33,13 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
