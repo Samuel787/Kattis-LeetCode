@@ -39,7 +39,17 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
