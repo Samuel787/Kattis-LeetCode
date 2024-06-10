@@ -9,54 +9,37 @@ class Solution(object):
         :type lists: List[ListNode]
         :rtype: ListNode
         """
-        if lists == None or len(lists) == 0:
+        if len(lists) == 0:
             return None
+        if len(lists) == 1:
+            return lists[0]
+        if len(lists) == 2:
+            return self.merge2Lists(lists[0], lists[1])
+        
+        mid = len(lists) // 2
+        leftPartition = self.mergeKLists(lists[0: mid]) 
+        rightPartition = self.mergeKLists(lists[mid:])
+        return self.merge2Lists(leftPartition, rightPartition)
 
-        while len(lists) > 1:
-            mergedLists = []
-            for i in range(0, len(lists), 2):
-                j = i + 1
-                if j < len(lists):
-                    mergedLists.append(self.merge2Lists(lists[i], lists[j]))
-                else:
-                    mergedLists.append(lists[i])
-            lists = mergedLists
-        return lists[0]
-        
-    # This method gives u head
-    def merge2Lists(self, one, two):
-        if one == None and two == None:
-            return None
-        head = None
-        curr = None
-        while one != None and two != None:
-            if one.val <= two.val:
-                if curr == None:
-                    curr = one
-                    head = curr
-                else:
-                    curr.next = one
-                    curr = curr.next
-                one = one.next
+    def merge2Lists(self, listOne, listTwo):
+        head = ListNode(-1, None)
+        curr = head
+        while listOne != None and listTwo != None:
+            if listOne.val < listTwo.val:
+                curr.next = listOne
+                listOne = listOne.next
             else:
-                if curr == None:
-                    curr = two
-                    head = curr
-                else:
-                    curr.next = two
-                    curr = curr.next
-                two = two.next
+                curr.next = listTwo
+                listTwo = listTwo.next
+            curr = curr.next
         
-        if one != None:
-            if head == None:
-                head = one
-            else:
-                curr.next = one
+        if listOne != None:
+            curr.next = listOne
+        
+        if listTwo != None:
+            curr.next = listTwo
+        
+        return head.next
             
-        if two != None:
-            if head == None:
-                head = two
-            else:
-                curr.next = two
         
-        return head
+
