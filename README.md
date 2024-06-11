@@ -42,6 +42,7 @@ My solutions to kattis problems
 | [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 # Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My solutions to kattis problems
 | [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 # Math
 |  |
@@ -64,10 +66,12 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 # Dynamic Programming
 |  |
 | ------- |
