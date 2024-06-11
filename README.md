@@ -5,6 +5,7 @@ My solutions to kattis problems
 # Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -47,6 +48,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0045-jump-game-ii) |
+| [0088-merge-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -65,6 +67,7 @@ My solutions to kattis problems
 # Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0088-merge-sorted-array) |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 # Counting Sort
