@@ -37,6 +37,7 @@ My solutions to kattis problems
 | [0045-jump-game-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0409-longest-palindrome) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -57,6 +58,7 @@ My solutions to kattis problems
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ My solutions to kattis problems
 | [0088-merge-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0088-merge-sorted-array) |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
