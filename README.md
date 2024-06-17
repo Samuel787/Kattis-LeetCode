@@ -8,6 +8,7 @@ My solutions to kattis problems
 | [0075-sort-colors](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -63,6 +64,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -102,3 +104,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0633-sum-of-square-numbers) |
