@@ -92,6 +92,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0206-reverse-linked-list) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -108,3 +109,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0206-reverse-linked-list) |
