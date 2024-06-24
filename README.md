@@ -60,6 +60,7 @@ My solutions to kattis problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0853-most-profit-assigning-work](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
@@ -70,6 +71,7 @@ My solutions to kattis problems
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 # Prefix Sum
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My solutions to kattis problems
 | [0088-merge-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0242-valid-anagram) |
 | [0853-most-profit-assigning-work](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -104,10 +107,12 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 # Merge Sort
 |  |
 | ------- |
@@ -121,3 +126,11 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0206-reverse-linked-list) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+# Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
