@@ -26,16 +26,13 @@ class Solution(object):
         while i < k:
             dist = manhattanArr[i]
             pointsWithDist = distanceMap[dist]
-            print(str(pointsWithDist))
             numPointsWithDist = len(pointsWithDist)
 
             requiredPoints = k - i
-            print("requiredPoints: " + str(requiredPoints))
             if numPointsWithDist <= requiredPoints:
                 for point in pointsWithDist:
                     result.append(point)
                 i += numPointsWithDist
-                print("value of i now is: " + str(i))
             else:
                 for j in range(requiredPoints):
                     result.append(pointsWithDist[j])
