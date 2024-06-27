@@ -134,3 +134,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1916-find-center-of-star-graph) |
