@@ -42,6 +42,7 @@ My solutions to kattis problems
 | [0853-most-profit-assigning-work](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -88,6 +89,7 @@ My solutions to kattis problems
 | [1137-height-checker](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Counting Sort
 |  |
 | ------- |
@@ -113,6 +115,7 @@ My solutions to kattis problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Merge Sort
 |  |
 | ------- |
@@ -138,3 +141,4 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
