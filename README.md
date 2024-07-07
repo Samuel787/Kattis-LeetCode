@@ -142,3 +142,14 @@ My solutions to kattis problems
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
+<!---LeetCode Topics End-->
