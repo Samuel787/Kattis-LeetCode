@@ -166,4 +166,12 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
