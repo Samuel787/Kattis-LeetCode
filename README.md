@@ -157,6 +157,7 @@ My solutions to kattis problems
 ## Array
 |  |
 | ------- |
+| [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -174,4 +175,12 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
