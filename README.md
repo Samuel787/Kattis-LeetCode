@@ -178,6 +178,7 @@ My solutions to kattis problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -191,6 +192,7 @@ My solutions to kattis problems
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 ## Greedy
 |  |
