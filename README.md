@@ -158,6 +158,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
+| [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -226,6 +227,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
