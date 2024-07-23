@@ -147,6 +147,7 @@ My solutions to kattis problems
 ## Math
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
@@ -158,6 +159,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
@@ -175,6 +177,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,6 +230,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
 ## Binary Tree
 |  |
@@ -239,5 +243,14 @@ My solutions to kattis problems
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
