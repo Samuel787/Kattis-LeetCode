@@ -4,14 +4,19 @@ class Solution(object):
         :type stones: List[int]
         :rtype: int
         """
-        stones = [i * - 1 for i in stones]
-        heapify(stones)
+        pq = []
+        for stone in stones:
+            pq.append(stone * -1)
+        heapq.heapify(pq)
 
-        while len(stones) > 1:
-          heaviest = heappop(stones)
-          second_heaviest = heappop(stones)
-          result = heaviest - second_heaviest
-          heappush(stones, result)
-        return stones[0] * -1
-      
+        while len(pq) > 0:
+            largestStone = heapq.heappop(pq)
+            if len(pq) == 0:
+                return largestStone * -1
+            secondLargestStone = heapq.heappop(pq)
+            result = largestStone - secondLargestStone
+            if result != 0:
+                heapq.heappush(pq, result)
+            
+        return 0
         
