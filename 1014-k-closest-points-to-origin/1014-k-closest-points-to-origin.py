@@ -5,37 +5,28 @@ class Solution(object):
         :type k: int
         :rtype: List[List[int]]
         """
-
-        # a + b <= c
-
-        distanceMap = {}
-        manhattanArr = []
-
+        distMap = {}
+        distHeap = []
+        heapq.heapify(distHeap)
         for point in points:
-            manhattanDist = point[0]**2 + point[1]**2
-            if manhattanDist in distanceMap:
-                distanceMap[manhattanDist].append(point)
+            dist = (point[0] * point[0] + point[1] * point[1])
+            if dist in distMap:
+                distMap[dist].append(point)
             else:
-                distanceMap[manhattanDist] = [point]
-            manhattanArr.append(manhattanDist)
-
-        manhattanArr.sort()
-
+                distMap[dist] = [point]
+            if len(distHeap) < k:
+                heapq.heappush(distHeap, dist * - 1)
+            else:
+                maxDist = heapq.heappop(distHeap)
+                if (maxDist * -1) > dist:
+                    heapq.heappush(distHeap, dist * -1)
+                else:
+                    heapq.heappush(distHeap, maxDist)
+        
         result = []
-        i = 0
-        while i < k:
-            dist = manhattanArr[i]
-            pointsWithDist = distanceMap[dist]
-            numPointsWithDist = len(pointsWithDist)
-
-            requiredPoints = k - i
-            if numPointsWithDist <= requiredPoints:
-                for point in pointsWithDist:
-                    result.append(point)
-                i += numPointsWithDist
-            else:
-                for j in range(requiredPoints):
-                    result.append(pointsWithDist[j])
-                i = k
+        for dist in distHeap:
+            point = distMap[dist * -1].pop()
+            result.append(point)
         return result
+
         
