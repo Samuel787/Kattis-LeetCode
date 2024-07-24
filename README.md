@@ -270,6 +270,7 @@ My solutions to kattis problems
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -278,12 +279,15 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
