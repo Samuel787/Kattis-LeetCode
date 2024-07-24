@@ -5,28 +5,26 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
-        #build the dependency graph as adjacency list
         self.graph = {}
-        for i in range(numCourses):
-            self.graph[i] = []
-        for coursePair in prerequisites:
-            self.graph[coursePair[0]].append(coursePair[1])
-        
+        for course in range(numCourses):
+            self.graph[course] = set()
+        for prereq in prerequisites:
+            self.graph[prereq[0]].add(prereq[1])
+
+        self.result = []
         self.visited = set()
         self.cycle = set()
-        self.output = []
-        # perform toposort on the graph
-        for course in self.graph:
+
+        for course in range(numCourses):
             if self.dfs(course) == False:
                 return []
-        return self.output
+        return self.result
 
-    
     def dfs(self, course):
-        if course in self.cycle:
-            return False
         if course in self.visited:
             return True
+        if course in self.cycle:
+            return False
         
         self.cycle.add(course)
         for prereq in self.graph[course]:
@@ -34,6 +32,8 @@ class Solution(object):
                 return False
         self.cycle.remove(course)
         self.visited.add(course)
-        self.output.append(course)
+        self.result.append(course)
         return True
+
+
 
