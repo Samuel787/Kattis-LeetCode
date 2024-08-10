@@ -230,6 +230,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -253,6 +254,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -281,6 +283,7 @@ My solutions to kattis problems
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -316,4 +319,12 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
