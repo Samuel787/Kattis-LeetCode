@@ -11,28 +11,23 @@ class Solution(object):
         :type subRoot: TreeNode
         :rtype: bool
         """
-        if root == None:
+        if root != None and subRoot == None:
+            return False
+        if root == None and subRoot != None:
+            return False
+        return self.isSubtreeAtRoot(root, subRoot) or self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+
+    def isSubtreeAtRoot(self, root, subTree):
+        if root == None and subTree == None:
+            return True
+        if root == None and subTree != None:
+            return False
+        if root != None and subTree == None:
             return False
 
-        # do a in order traversal
-        if self.isSubtreeAtRoot(root, subRoot):
-            return True
-        if self.isSubtree(root.left, subRoot):
-            return True
-        if self.isSubtree(root.right, subRoot):
-            return True
+        if root.val != subTree.val:
+            return False
+        return self.isSubtreeAtRoot(root.left, subTree.left) and self.isSubtreeAtRoot(root.right, subTree.right)
+
         
-        return False
 
-        
-    def isSubtreeAtRoot(self, original, reference):
-        if original == None and reference == None:
-            return True
-
-        if original == None or reference == None:
-            return False
-
-        if original.val != reference.val:
-            return False
-
-        return self.isSubtreeAtRoot(original.left, reference.left) and self.isSubtreeAtRoot(original.right, reference.right)
