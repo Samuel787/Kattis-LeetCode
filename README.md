@@ -206,6 +206,7 @@ My solutions to kattis problems
 ## Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -241,6 +242,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -265,6 +267,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -337,4 +340,8 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
