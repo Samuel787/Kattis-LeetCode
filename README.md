@@ -159,6 +159,7 @@ My solutions to kattis problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
@@ -211,6 +212,7 @@ My solutions to kattis problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
