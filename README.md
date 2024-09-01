@@ -166,6 +166,7 @@ My solutions to kattis problems
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
@@ -214,6 +215,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
@@ -276,6 +278,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
