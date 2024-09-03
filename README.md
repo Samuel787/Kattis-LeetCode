@@ -166,6 +166,7 @@ My solutions to kattis problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -240,6 +241,7 @@ My solutions to kattis problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
