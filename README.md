@@ -152,6 +152,7 @@ My solutions to kattis problems
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Simulation
 |  |
 | ------- |
