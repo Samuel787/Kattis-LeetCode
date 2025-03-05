@@ -10,18 +10,24 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        count = 0
-        stack = []
-        if root != None:
-            stack.append(root)
-        while stack:
-            count += 1
-            curr = stack.pop()
-            if curr.left != None:
-                stack.append(curr.left)
-            if curr.right != None:
-                stack.append(curr.right)
-        return count
+        left = 0
+        right = 0
+        leftPtr = root
+        while leftPtr != None:
+            left += 1
+            leftPtr = leftPtr.left
+        
+        rightPtr = root
+        while rightPtr != None:
+            right += 1
+            rightPtr = rightPtr.right
+        
+        if left == right:
+            return 2 ** left - 1
+        
+        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
+
+
             
 
         
