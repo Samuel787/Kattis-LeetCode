@@ -15,7 +15,6 @@ class Solution(object):
         :rtype: int
         """
         rand = random.randint(0, self.cum - 1)
-        print("this is rand: ", rand)
         return self.findBucket(rand)
 
 
