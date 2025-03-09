@@ -218,12 +218,14 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0020-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
