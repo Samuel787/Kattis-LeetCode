@@ -168,6 +168,7 @@ My solutions to kattis problems
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
@@ -219,6 +220,7 @@ My solutions to kattis problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
@@ -250,6 +252,7 @@ My solutions to kattis problems
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -331,6 +334,7 @@ My solutions to kattis problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -342,6 +346,7 @@ My solutions to kattis problems
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
 ## Breadth-First Search
