@@ -228,6 +228,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
@@ -279,6 +280,7 @@ My solutions to kattis problems
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
