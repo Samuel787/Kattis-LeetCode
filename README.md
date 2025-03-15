@@ -226,6 +226,7 @@ My solutions to kattis problems
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
 ## Stack
