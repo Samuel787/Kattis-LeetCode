@@ -148,6 +148,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0070-climbing-stairs) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -294,6 +295,7 @@ My solutions to kattis problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
