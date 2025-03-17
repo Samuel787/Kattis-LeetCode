@@ -191,6 +191,7 @@ My solutions to kattis problems
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -218,6 +219,7 @@ My solutions to kattis problems
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@ My solutions to kattis problems
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -390,6 +393,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
 |  |
 | ------- |
