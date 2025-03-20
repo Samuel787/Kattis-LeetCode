@@ -172,6 +172,7 @@ My solutions to kattis problems
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -209,6 +210,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
@@ -281,6 +283,7 @@ My solutions to kattis problems
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
@@ -297,6 +300,7 @@ My solutions to kattis problems
 | ------- |
 | [0069-sqrtx](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -315,6 +319,7 @@ My solutions to kattis problems
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
