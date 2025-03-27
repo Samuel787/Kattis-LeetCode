@@ -10,15 +10,10 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
-        mSet = set()
         currA = headA
-        while currA != None:
-            mSet.add(currA)
-            currA = currA.next
-        
         currB = headB
-        while currB != None:
-            if currB in mSet:
-                return currB
-            currB = currB.next
-        return None
+
+        while currA != currB:
+            currA = currA.next if currA != None else headB
+            currB = currB.next if currB != None else headA
+        return currA
