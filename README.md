@@ -232,6 +232,7 @@ My solutions to kattis problems
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
@@ -298,6 +299,7 @@ My solutions to kattis problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -338,6 +340,7 @@ My solutions to kattis problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -377,6 +380,7 @@ My solutions to kattis problems
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Backtracking
@@ -384,6 +388,7 @@ My solutions to kattis problems
 | ------- |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
