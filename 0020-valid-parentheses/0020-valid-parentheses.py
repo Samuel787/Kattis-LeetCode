@@ -4,20 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        if len(s) % 2 != 0:
-            return False
         mStack = []
-        for i in s:
-            if i == "(" or i == "[" or i == "{":
-                mStack.append(i)
-            else:
-                if len(mStack) == 0:
+        for bracket in s:
+            if bracket == "(" or bracket == "[" or bracket == "{":
+                mStack.append(bracket)
+            elif bracket == ")":
+                if not mStack or mStack.pop() != "(":
                     return False
-                top = mStack.pop()
-                if i == ")" and top != "(":
+            elif bracket == "]":
+                if not mStack or mStack.pop() != "[":
                     return False
-                elif i == "]" and top != "[":
-                    return False
-                elif i == "}" and top != "{":
+            elif bracket == "}":
+                if not mStack or mStack.pop() != "{":
                     return False
         return len(mStack) == 0
