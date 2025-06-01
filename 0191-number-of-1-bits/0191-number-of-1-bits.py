@@ -6,8 +6,8 @@ class Solution(object):
         """
         result = 0
         while n > 0:
-            result += n % 2
-            n = n // 2
+            isEven = n % 2 == 0
+            if not isEven:
+                result += 1
+            n = n >> 1
         return result
-
-        
