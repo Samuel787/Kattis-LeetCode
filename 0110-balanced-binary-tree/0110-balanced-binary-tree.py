@@ -12,26 +12,18 @@ class Solution(object):
         """
         if root == None:
             return True
-        height, isBalanced = self.getDepth(root)
-        return isBalanced
-        # lh, isBalanced = self.getDepth(root.left)
-        # if not isBalanced:
-        #     return False
-        # rh, isBalanced = self.getDepth(root.right)
-       
-    def getDepth(self, root):
-        if root == None:
+
+        self.balanced = True
+        self.checkBalanced(root)
+        return self.balanced
+        
+
+    def checkBalanced(self, node):
+        if node == None:
             return 0
-        lh = 0
-        rh = 0
-        if root.left != None:
-            lh, isBalanced = self.getDepth(root.left)
-            if not isBalanced:
-                return -1, False
-        if root.right != None:
-            rh, isBalanced = self.getDepth(root.right)
-            if not isBalanced:
-                return -1, False
-        if abs(lh - rh) > 1:
-            return -1, False
-        return max(lh, rh) + 1, True
+        rightHeight = 1 + self.checkBalanced(node.right)
+        leftHeight = 1 + self.checkBalanced(node.left)
+        if abs(rightHeight - leftHeight) > 1:
+            self.balanced = False
+            return 0
+        return max(rightHeight, leftHeight)
