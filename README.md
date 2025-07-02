@@ -172,6 +172,7 @@ My solutions to kattis problems
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -223,6 +224,7 @@ My solutions to kattis problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
@@ -401,6 +403,7 @@ My solutions to kattis problems
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
