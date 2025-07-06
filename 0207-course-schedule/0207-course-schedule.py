@@ -5,30 +5,35 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        self.graph = {}
-        for course in range(numCourses):
-            self.graph[course] = set()
-        
-        for prereq in prerequisites:
-            self.graph[prereq[0]].add(prereq[1])
+        # idea, check if the graph contains any cycles
 
-        self.visited = set()
-        self.cycle = set()
+        # construct the adjacency graph of dependencies
+        self.graph = {}
+        self.completed = set()
         for course in range(numCourses):
-            if self.dfs(course) == False:
+            self.graph[course] = []
+
+        for prereq in prerequisites:
+            self.graph[prereq[0]].append(prereq[1])
+
+        for course in self.graph:
+            if course in self.completed:
+                continue
+            if not self.dfs(course, set()):
                 return False
         return True
-
-    def dfs(self, course):
-        if course in self.visited:
-            return True
-        if course in self.cycle:
+    
+    def dfs(self, courseNum, visited):
+        if courseNum in visited:
+            print("Returning false")
             return False
-
-        self.cycle.add(course)
-        for prereqCourse in self.graph[course]:
-            if self.dfs(prereqCourse) == False:
+        visited.add(courseNum)
+        for course in self.graph[courseNum]:
+            if course in self.completed:
+                continue
+            if not self.dfs(course, visited):
+                # print("Returning false")
                 return False
-        self.cycle.remove(course)
-        self.visited.add(course)
+        # visited.remove(courseNum)
+        self.completed.add(courseNum)
         return True
