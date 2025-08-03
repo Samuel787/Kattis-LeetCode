@@ -5,35 +5,33 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
+        self.completed = []
+        self.completedSet = set()
         self.graph = {}
-        for course in range(numCourses):
-            self.graph[course] = set()
+        for i in range(numCourses):
+            self.graph[i] = []
+
         for prereq in prerequisites:
-            self.graph[prereq[0]].add(prereq[1])
-
-        self.result = []
-        self.visited = set()
-        self.cycle = set()
-
-        for course in range(numCourses):
-            if self.dfs(course) == False:
+            self.graph[prereq[0]].append(prereq[1])
+        
+        for course in self.graph:
+            if self.dfs_cycle_detection(course, set()):
                 return []
-        return self.result
+        return self.completed
 
-    def dfs(self, course):
-        if course in self.visited:
+    def dfs_cycle_detection(self, course, path):
+        if course in path:
             return True
-        if course in self.cycle:
+        if course in self.completedSet:
             return False
         
-        self.cycle.add(course)
+        path.add(course)
         for prereq in self.graph[course]:
-            if self.dfs(prereq) == False:
-                return False
-        self.cycle.remove(course)
-        self.visited.add(course)
-        self.result.append(course)
-        return True
+            if self.dfs_cycle_detection(prereq, path):
+                return True
+        path.remove(course)
 
-
-
+        self.completed.append(course)
+        # print("This is completed: " + str(self.completed))
+        self.completedSet.add(course)
+        return False
