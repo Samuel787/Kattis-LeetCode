@@ -4,13 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        res = -10**4
-        cumSum = 0
-        for num in nums:
-            if num > (cumSum + num):
-                cumSum = num
-            else:
-                cumSum += num
-            res = max(cumSum, res)
-        return res
-        
+        current = nums[0]
+        maximum = current
+        for i in range(1, len(nums)):
+            current = max(nums[i], current + nums[i])
+            maximum = max(maximum, current)
+        return maximum
