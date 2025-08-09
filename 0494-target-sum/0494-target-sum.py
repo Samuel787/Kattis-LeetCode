@@ -6,21 +6,20 @@ class Solution(object):
         :rtype: int
         """
         self.cache = {}
-        return self.helper(nums, 0, 0, target)
+        self.target = target
+        self.nums = nums
+        return self.backtrack(0, 0)
 
-    def helper(self, nums, index, curr_sum, target):
-        if (index, curr_sum) in self.cache:
-            return self.cache[(index, curr_sum)]
+    def backtrack(self, idx, curr_sum):
+        if (idx, curr_sum) in self.cache:
+            return self.cache[idx, curr_sum]
+
+        if idx == len(self.nums):
+            if curr_sum == self.target:
+                return 1
+            else:
+                return 0
         
-        if curr_sum == target and index == len(nums):
-            return 1
-        if index == len(nums):
-            return 0
         
-        curr = nums[index]
-        additionWays = self.helper(nums, index + 1, curr_sum + curr, target)
-        subtractionWays = self.helper(nums, index + 1, curr_sum - curr, target)
-        self.cache[(index, curr_sum)] = additionWays + subtractionWays
-        return self.cache[(index, curr_sum)]
-
-
+        self.cache[(idx, curr_sum)] = self.backtrack(idx + 1, curr_sum + self.nums[idx]) + self.backtrack(idx + 1, curr_sum - self.nums[idx])
+        return self.cache[(idx, curr_sum)]
