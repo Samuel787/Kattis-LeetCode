@@ -24,6 +24,6 @@ class Solution(object):
                     insertCount = dp[row][col + 1] + 1
                     deleteCount = dp[row + 1][col] + 1
                     replaceCount = dp[row + 1][col + 1] + 1
-                    dp[row][col] = min(min(insertCount, deleteCount), min(deleteCount, replaceCount))
+                    dp[row][col] = min(insertCount, deleteCount, replaceCount)
         
         return dp[0][0]
