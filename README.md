@@ -321,6 +321,7 @@ My solutions to kattis problems
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -366,6 +367,7 @@ My solutions to kattis problems
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -409,6 +411,7 @@ My solutions to kattis problems
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
