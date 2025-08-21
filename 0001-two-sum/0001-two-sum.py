@@ -5,19 +5,23 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        modifiedNums = [(nums[i], i) for i in range(len(nums))]
-        modifiedNums.sort()
-        l = 0
-        r = len(nums) - 1
-        while l < r:
-            currSum = modifiedNums[l][0] + modifiedNums[r][0]
-            if currSum == target:
-                return [modifiedNums[l][1], modifiedNums[r][1]]
-            elif currSum > target:
-                r -= 1
-            else:
-                l += 1
-        return [0, 0]
+        mDict = {}
+        for i in range(len(nums)):
+            if nums[i] not in mDict:
+                mDict[nums[i]] = []
+            mDict[nums[i]].append(i)
+        
+        for i in range(len(nums)):
+            complement = target - nums[i]
+            if complement == nums[i]:
+                if len(mDict[nums[i]]) > 1:
+                    return [mDict[nums[i]][0], mDict[nums[i]][1]]
+            elif complement in mDict:
+                return [i, mDict[complement][0]]
+        
+        return []
+                
+
 
 
         
