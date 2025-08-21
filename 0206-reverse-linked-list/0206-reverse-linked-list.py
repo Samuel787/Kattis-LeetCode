@@ -6,18 +6,19 @@
 class Solution(object):
     def reverseList(self, head):
         """
-        :type head: ListNode
-        :rtype: ListNode
+        :type head: Optional[ListNode]
+        :rtype: Optional[ListNode]
         """
-        if (head == None or head.next == None):
+        if head == None:
             return head
         curr = head
         prev = None
         while curr.next != None:
-            temp = curr.next #assert temp is not None
-            curr.next = prev 
+            # do reversal
+            temp = curr.next
+            curr.next = prev
             prev = curr
             curr = temp
+
         curr.next = prev
         return curr
-
