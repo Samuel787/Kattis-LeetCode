@@ -151,6 +151,7 @@ My solutions to kattis problems
 | [0069-sqrtx](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0326-power-of-three) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -187,6 +188,7 @@ My solutions to kattis problems
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
@@ -241,6 +243,7 @@ My solutions to kattis problems
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -278,6 +281,7 @@ My solutions to kattis problems
 | [0141-linked-list-cycle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -352,6 +356,7 @@ My solutions to kattis problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -394,6 +399,7 @@ My solutions to kattis problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
