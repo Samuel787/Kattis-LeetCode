@@ -185,6 +185,7 @@ My solutions to kattis problems
 | [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -297,6 +298,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -309,6 +311,7 @@ My solutions to kattis problems
 | [0072-edit-distance](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
