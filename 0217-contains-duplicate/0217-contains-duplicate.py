@@ -10,3 +10,4 @@ class Solution(object):
                 return True
             cache.add(num)
         return False
+        
