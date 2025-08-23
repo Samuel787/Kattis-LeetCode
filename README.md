@@ -166,6 +166,7 @@ My solutions to kattis problems
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -175,6 +176,7 @@ My solutions to kattis problems
 | [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0078-subsets) |
@@ -308,6 +310,7 @@ My solutions to kattis problems
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
