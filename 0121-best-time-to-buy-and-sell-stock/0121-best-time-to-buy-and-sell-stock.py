@@ -4,10 +4,9 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        result = 0
-        currLow = prices[0]
-        for price in prices:
-            result = max(result, price - currLow)
-            if price < currLow:
-                currLow = price
-        return result
+        maxProfit = 0
+        buy = prices[0]
+        for i in range(1, len(prices)):
+            maxProfit = max(maxProfit, prices[i] -  buy)
+            buy = min(buy, prices[i])
+        return maxProfit
