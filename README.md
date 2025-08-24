@@ -203,6 +203,7 @@ My solutions to kattis problems
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -304,6 +305,7 @@ My solutions to kattis problems
 | [0141-linked-list-cycle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
+| [1019-squares-of-a-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -413,6 +415,7 @@ My solutions to kattis problems
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
