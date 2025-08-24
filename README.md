@@ -174,6 +174,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
@@ -300,6 +301,7 @@ My solutions to kattis problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -410,6 +412,7 @@ My solutions to kattis problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
