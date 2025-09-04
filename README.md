@@ -163,6 +163,7 @@ My solutions to kattis problems
 | [2649-count-total-number-of-colored-cells](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
