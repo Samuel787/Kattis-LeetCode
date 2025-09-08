@@ -193,6 +193,7 @@ My solutions to kattis problems
 | [0200-number-of-islands](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
@@ -293,6 +294,7 @@ My solutions to kattis problems
 | [0141-linked-list-cycle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
@@ -531,6 +533,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Memoization
 |  |
