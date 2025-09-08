@@ -156,6 +156,7 @@ My solutions to kattis problems
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
