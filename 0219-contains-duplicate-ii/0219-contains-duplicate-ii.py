@@ -11,15 +11,10 @@ class Solution(object):
             curr = nums[i]
             if curr not in mDict:
                 mDict[curr] = []
-            mDict[curr].append(i)
-        
-        for val in mDict:
-            arr = mDict[val]
-            if len(arr) < 2:
-                continue
-            for i in range(0, len(arr) - 1, 1):
-                if arr[i + 1] - arr[i] <= k:
+            if len(mDict[curr]) > 0:
+                if i - mDict[curr][-1] <= k:
                     return True
+            mDict[curr].append(i)
         return False
-        
+
             
