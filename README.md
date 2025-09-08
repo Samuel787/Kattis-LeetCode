@@ -191,6 +191,7 @@ My solutions to kattis problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -378,6 +379,7 @@ My solutions to kattis problems
 | [0098-validate-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -524,6 +526,7 @@ My solutions to kattis problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -535,6 +538,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Memoization
