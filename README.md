@@ -366,6 +366,7 @@ My solutions to kattis problems
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Design
 |  |
 | ------- |
@@ -414,6 +415,7 @@ My solutions to kattis problems
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Data Stream
 |  |
 | ------- |
