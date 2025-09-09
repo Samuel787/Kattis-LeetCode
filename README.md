@@ -171,6 +171,7 @@ My solutions to kattis problems
 | [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2386-min-max-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2386-min-max-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
@@ -226,6 +227,7 @@ My solutions to kattis problems
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2386-min-max-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2386-min-max-game) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
