@@ -4,14 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        dp = [[0, 0] for _ in range(len(nums))]
+        dp = [nums[0]]
+        if len(nums) == 1:
+            return nums[0]
+        dp.append(max(nums[0], nums[1]))
 
-        for i in range(len(nums)):
-            if i == 0:
-                dp[0][0] = 0
-                dp[0][1] = nums[0]
-            else:
-                dp[i][0] = max(dp[i - 1][1], dp[i - 1][0])
-                dp[i][1] = dp[i - 1][0] + nums[i]
+        for i in range(2, len(nums)):
+            dp.append(max(nums[i] + dp[i - 2], dp[i - 1]))
         
-        return max(dp[len(nums) - 1][0], dp[len(nums) - 1][1])
+        return dp[-1]
+        
