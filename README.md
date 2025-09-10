@@ -322,6 +322,7 @@ My solutions to kattis problems
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [0875-longest-mountain-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -382,6 +383,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
@@ -403,6 +405,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
@@ -432,6 +435,7 @@ My solutions to kattis problems
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 ## Sorting
@@ -441,6 +445,7 @@ My solutions to kattis problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
