@@ -4,14 +4,16 @@ class Solution(object):
         :type stones: List[int]
         :rtype: int
         """
-        s = [-1 * stone for stone in stones]
-        heapq.heapify(s)
-        while len(s) > 1:
-            one = heapq.heappop(s)
-            two = heapq.heappop(s)
-            res = one - two
-            heapq.heappush(s, res)
-        if len(s) == 0:
-            return 0
-        else:
-            return -1 * heapq.heappop(s)
+        mHeap = []
+        heapq.heapify(mHeap)
+        # we want a max Heap
+        for s in stones:
+            heapq.heappush(mHeap, s * -1)
+        
+        while len(mHeap) > 1:
+            first = heapq.heappop(mHeap)
+            second = heapq.heappop(mHeap)
+            heapq.heappush(mHeap, first - second)
+        
+        val = heapq.heappop(mHeap) * -1
+        return val
