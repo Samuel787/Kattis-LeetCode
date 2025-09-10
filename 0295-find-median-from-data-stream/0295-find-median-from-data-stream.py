@@ -1,53 +1,47 @@
 class MedianFinder(object):
 
     def __init__(self):
-        self.small_heap = [] # max heap
-        self.large_heap = [] # min heap
-
+        self.minHeap = []
+        self.maxHeap = []
+        heapq.heapify(self.minHeap)
+        heapq.heapify(self.maxHeap)
+        
 
     def addNum(self, num):
         """
         :type num: int
         :rtype: None
         """
-        heapq.heappush(self.small_heap, num * -1)
-
-        max_in_small = self.small_heap[0] * -1
-        if len(self.large_heap) > 0:
-            min_in_large = self.large_heap[0]
-
-            # ensure heap partition
-            if max_in_small > min_in_large:
-                val = heapq.heappop(self.small_heap) * -1
-                heapq.heappush(self.large_heap, val)
+        # we add it first and then we rebalance the heaps
+        if len(self.minHeap) == 0:
+            heapq.heappush(self.minHeap, num)
+        elif num > self.minHeap[0]:
+            heapq.heappush(self.minHeap, num)
+        else:
+            heapq.heappush(self.maxHeap, num * -1)
         
-        
-        # rebalance the heap
-        while abs(len(self.small_heap) - len(self.large_heap)) > 1:
-            if len(self.small_heap) > len(self.large_heap):
-                val = heapq.heappop(self.small_heap) * -1
-                heapq.heappush(self.large_heap, val)
+        # rebalancing
+        while abs(len(self.minHeap) - len(self.maxHeap)) >= 2:
+            if len(self.minHeap) > len(self.maxHeap):
+                val = heapq.heappop(self.minHeap)
+                heapq.heappush(self.maxHeap, val * -1)
             else:
-                val = heapq.heappop(self.large_heap)
-                heapq.heappush(self.small_heap, val * -1)
+                val = heapq.heappop(self.maxHeap)
+                heapq.heappush(self.minHeap, val * -1)
 
     def findMedian(self):
         """
         :rtype: float
         """
-        # print("small heap: " + str(self.small_heap) + " and large heap: " + str(self.large_heap))
-        if len(self.small_heap) == len(self.large_heap):
-            max_in_small = self.small_heap[0] * -1
-            min_in_large = self.large_heap[0]
-            return (max_in_small + min_in_large) / 2.0
-        elif len(self.small_heap) > len(self.large_heap):
-            return self.small_heap[0] * -1
+        # print("This is the maxHeap: " + str(self.maxHeap))
+        # print("This is the minHeap: " + str(self.minHeap))
+        if len(self.minHeap) > len(self.maxHeap):
+            return self.minHeap[0]
+        elif len(self.minHeap) < len(self.maxHeap):
+            return self.maxHeap[0] * -1
         else:
-            if len(self.large_heap) > len(self.small_heap):
-                return self.large_heap[0]
-            else:
-                return self.small_heap[0] * -1
-            # return heapq.heapop(self.large_heap)
+            # print("it is here")
+            return (self.minHeap[0] + self.maxHeap[0] * -1) / 2.0
         
 
 
