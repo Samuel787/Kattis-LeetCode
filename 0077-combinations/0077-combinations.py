@@ -6,27 +6,22 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         # self.space = [i for i in range(1, n + 1)]
-        self.soln = []
-        self.n = n
-        self.k = k
-
-        self.backtrack([], 1)
-        return self.soln
-
-    def backtrack(self, path, i):
-        if len(path) == self.k:
-            self.soln.append(path)
-            return
-
-        if i > self.n:
-            return
-
-        temp = path[:]
-        temp.append(i)
-        self.backtrack(path, i + 1)
-        self.backtrack(temp, i + 1)
+        space = [[]]
+        soln = []
+        for i in range(1, n + 1):
+            temp = []
+            for j in space:
+                deepcopy = [m for m in j]
+                deepcopy.append(i)
+                # print("This is deepcopy: " + str(deepcopy))
+                if len(deepcopy) == k:
+                    # print("Adding this deepcopy: " + str(deepcopy))
+                    soln.append(deepcopy)
+                else:
+                    temp.append(deepcopy)
+            space += temp
         
-
+        return soln
 
         
         
