@@ -289,6 +289,7 @@ My solutions to kattis problems
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -319,6 +320,7 @@ My solutions to kattis problems
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -547,6 +549,7 @@ My solutions to kattis problems
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
