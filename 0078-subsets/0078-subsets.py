@@ -4,19 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        self.res = [[]]
+        output = [[]]
         for num in nums:
-            currBatch = []
-            for el in self.res:
-                k = self.makeDeepCopy(el)
-                k.append(num)
-                currBatch.append(k)
-            self.res += currBatch
-        
-        return self.res
-
-    def makeDeepCopy(self, ll):
-        k = []
-        for i in ll:
-            k.append(i)
-        return k
+            temp = []
+            for j in output:
+                deepcopy = [i for i in j]
+                deepcopy.append(num)
+                temp.append(deepcopy)
+            output += temp
+        return output
