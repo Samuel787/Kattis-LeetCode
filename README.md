@@ -153,6 +153,7 @@ My solutions to kattis problems
 | [0168-excel-sheet-column-title](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0326-power-of-three) |
+| [0830-largest-triangle-area](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -209,6 +210,7 @@ My solutions to kattis problems
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
@@ -468,6 +470,7 @@ My solutions to kattis problems
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Quickselect
