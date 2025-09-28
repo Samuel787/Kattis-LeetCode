@@ -9,16 +9,15 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if head == None:
-            return head
+        
         curr = head
         prev = None
-        while curr.next != None:
-            # do reversal
+        while curr != None:
             temp = curr.next
             curr.next = prev
             prev = curr
             curr = temp
+        return prev
+            
 
-        curr.next = prev
-        return curr
+
