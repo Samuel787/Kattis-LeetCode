@@ -181,6 +181,7 @@ My solutions to kattis problems
 | [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0057-insert-interval) |
@@ -503,6 +504,7 @@ My solutions to kattis problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0079-word-search) |
