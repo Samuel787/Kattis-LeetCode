@@ -147,6 +147,7 @@ My solutions to kattis problems
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0070-climbing-stairs) |
@@ -368,6 +369,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -627,6 +629,7 @@ My solutions to kattis problems
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
