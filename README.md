@@ -203,6 +203,7 @@ My solutions to kattis problems
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -372,6 +373,7 @@ My solutions to kattis problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -421,6 +423,7 @@ My solutions to kattis problems
 | [0209-minimum-size-subarray-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
