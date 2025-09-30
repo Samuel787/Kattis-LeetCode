@@ -11,5 +11,5 @@ class Solution(object):
                 currSum = nums[i]
             else:
                 currSum += nums[i]
-            maxSum = max(currSum, maxSum)
+            maxSum = max(maxSum, currSum)
         return maxSum
