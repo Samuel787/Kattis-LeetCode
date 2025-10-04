@@ -183,6 +183,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0046-permutations) |
@@ -339,6 +340,7 @@ My solutions to kattis problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
@@ -352,6 +354,7 @@ My solutions to kattis problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
