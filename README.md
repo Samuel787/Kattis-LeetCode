@@ -218,6 +218,7 @@ My solutions to kattis problems
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -367,6 +368,7 @@ My solutions to kattis problems
 | [0200-number-of-islands](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -432,6 +434,7 @@ My solutions to kattis problems
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -442,6 +445,7 @@ My solutions to kattis problems
 | [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
@@ -522,6 +526,7 @@ My solutions to kattis problems
 | [0543-diameter-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Backtracking
@@ -549,6 +554,7 @@ My solutions to kattis problems
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Graph
 |  |
@@ -654,4 +660,5 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
