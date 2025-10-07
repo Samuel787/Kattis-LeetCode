@@ -236,6 +236,7 @@ My solutions to kattis problems
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -333,6 +334,7 @@ My solutions to kattis problems
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -358,6 +360,7 @@ My solutions to kattis problems
 | [0011-container-with-most-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Matrix
@@ -437,6 +440,7 @@ My solutions to kattis problems
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -449,6 +453,7 @@ My solutions to kattis problems
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
+| [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Binary Tree
 |  |
