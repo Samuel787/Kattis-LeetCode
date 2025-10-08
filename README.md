@@ -247,6 +247,7 @@ My solutions to kattis problems
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2386-min-max-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2386-min-max-game) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -354,6 +355,7 @@ My solutions to kattis problems
 | [0875-longest-mountain-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -441,6 +443,7 @@ My solutions to kattis problems
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -499,6 +502,7 @@ My solutions to kattis problems
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Geometry
 |  |
