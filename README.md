@@ -251,6 +251,7 @@ My solutions to kattis problems
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -613,6 +614,7 @@ My solutions to kattis problems
 | [0303-range-sum-query-immutable](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
 |  |
 | ------- |
