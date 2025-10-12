@@ -189,6 +189,7 @@ My solutions to kattis problems
 | [0046-permutations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0078-subsets) |
@@ -490,6 +491,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
