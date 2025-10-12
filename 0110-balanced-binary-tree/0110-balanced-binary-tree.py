@@ -10,20 +10,21 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
+        _, res = self.getHeightBalanced(root)
+        return res
+
+    def getHeightBalanced(self, root):
         if root == None:
-            return True
-
-        self.balanced = True
-        self.checkBalanced(root)
-        return self.balanced
+            return 0, True
         
+        leftHeight, a = self.getHeightBalanced(root.left)
+        if a != True:
+            return 0, False
+        rightHeight, b = self.getHeightBalanced(root.right)
+        if b != True:
+            return 0, False
 
-    def checkBalanced(self, node):
-        if node == None:
-            return 0
-        rightHeight = 1 + self.checkBalanced(node.right)
-        leftHeight = 1 + self.checkBalanced(node.left)
-        if abs(rightHeight - leftHeight) > 1:
-            self.balanced = False
-            return 0
-        return max(rightHeight, leftHeight)
+        diff = abs(leftHeight - rightHeight)
+        if diff > 1:
+            return 0, False
+        return max(leftHeight, rightHeight) + 1, True
