@@ -232,6 +232,7 @@ My solutions to kattis problems
 | [1127-last-stone-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1127-last-stone-weight) |
 | [1306-minimum-absolute-difference](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -304,6 +305,7 @@ My solutions to kattis problems
 | [0257-binary-tree-paths](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0800-letter-case-permutation) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -336,6 +338,7 @@ My solutions to kattis problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1039-find-the-town-judge) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -503,6 +506,7 @@ My solutions to kattis problems
 | [1019-squares-of-a-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
