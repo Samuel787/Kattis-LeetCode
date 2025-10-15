@@ -256,6 +256,7 @@ My solutions to kattis problems
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
