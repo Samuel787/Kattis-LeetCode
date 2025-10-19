@@ -259,6 +259,7 @@ My solutions to kattis problems
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
@@ -375,6 +376,7 @@ My solutions to kattis problems
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -516,6 +518,7 @@ My solutions to kattis problems
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Geometry
 |  |
 | ------- |
