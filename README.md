@@ -176,6 +176,7 @@ My solutions to kattis problems
 | [0054-spiral-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2386-min-max-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2386-min-max-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3336-water-bottles-ii) |
@@ -246,6 +247,7 @@ My solutions to kattis problems
 | [1917-maximum-average-pass-ratio](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -312,6 +314,7 @@ My solutions to kattis problems
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1720-crawler-log-folder) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
