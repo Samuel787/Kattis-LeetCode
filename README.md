@@ -161,6 +161,7 @@ My solutions to kattis problems
 | [1395-minimum-time-visiting-all-points](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
