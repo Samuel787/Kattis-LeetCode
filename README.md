@@ -179,6 +179,7 @@ My solutions to kattis problems
 | [1642-water-bottles](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2169-simple-bank-system) |
 | [2386-min-max-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2386-min-max-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3336-water-bottles-ii) |
@@ -251,6 +252,7 @@ My solutions to kattis problems
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -354,6 +356,7 @@ My solutions to kattis problems
 | [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2169-simple-bank-system](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -446,6 +449,7 @@ My solutions to kattis problems
 | [0303-range-sum-query-immutable](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
+| [2169-simple-bank-system](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
 |  |
 | ------- |
