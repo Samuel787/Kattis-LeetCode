@@ -10,12 +10,15 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
+        # floyd warshall cycle detection
+        if head == None:
+            return False
+
         slow = head
-        fast = head
+        fast = head.next
         while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
             if slow == fast:
                 return True
+            slow = slow.next
+            fast = fast.next.next
         return False
-        
