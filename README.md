@@ -490,6 +490,7 @@ My solutions to kattis problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
@@ -578,6 +579,7 @@ My solutions to kattis problems
 | [0543-diameter-of-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -606,6 +608,7 @@ My solutions to kattis problems
 | [0226-invert-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0744-network-delay-time](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Graph
@@ -613,6 +616,7 @@ My solutions to kattis problems
 | ------- |
 | [0207-course-schedule](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
@@ -718,4 +722,8 @@ My solutions to kattis problems
 | ------- |
 | [0200-number-of-islands](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
