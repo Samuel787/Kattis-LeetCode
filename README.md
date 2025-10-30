@@ -205,6 +205,7 @@ My solutions to kattis problems
 | [0090-subsets-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0198-house-robber) |
@@ -388,6 +389,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1612-avoid-flood-in-the-city) |
