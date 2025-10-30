@@ -9,11 +9,11 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        fast = head
         slow = head
-
-        while fast != None and fast.next != None:
-            slow = slow.next
-            fast = fast.next.next
-        
+        fast = head
+        while fast:
+            fast = fast.next
+            if fast != None:
+                slow = slow.next
+                fast = fast.next
         return slow
