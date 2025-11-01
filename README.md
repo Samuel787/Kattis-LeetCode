@@ -270,6 +270,7 @@ My solutions to kattis problems
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3483-alternating-groups-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -371,6 +372,7 @@ My solutions to kattis problems
 | [2308-divide-array-into-equal-pairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -692,6 +694,7 @@ My solutions to kattis problems
 | [0203-remove-linked-list-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
 |  |
 | ------- |
