@@ -282,6 +282,7 @@ My solutions to kattis problems
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -344,6 +345,7 @@ My solutions to kattis problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
@@ -385,6 +387,7 @@ My solutions to kattis problems
 | [0125-valid-palindrome](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [0875-longest-mountain-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -697,6 +700,7 @@ My solutions to kattis problems
 | [0160-intersection-of-two-linked-lists](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
