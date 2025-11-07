@@ -230,6 +230,7 @@ My solutions to kattis problems
 | [0654-maximum-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -300,6 +301,7 @@ My solutions to kattis problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
@@ -418,6 +420,7 @@ My solutions to kattis problems
 | [0200-number-of-islands](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0772-construct-quad-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -465,6 +468,7 @@ My solutions to kattis problems
 | [0563-binary-tree-tilt](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1035-cousins-in-binary-tree) |
