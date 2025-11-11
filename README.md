@@ -154,6 +154,7 @@ My solutions to kattis problems
 | [0168-excel-sheet-column-title](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -224,6 +225,7 @@ My solutions to kattis problems
 | [0303-range-sum-query-immutable](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -371,6 +373,7 @@ My solutions to kattis problems
 | [0219-contains-duplicate-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Samuel787/Kattis-LeetCode/tree/master/1039-find-the-town-judge) |
@@ -482,6 +485,7 @@ My solutions to kattis problems
 | [0155-min-stack](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2169-simple-bank-system) |
@@ -701,6 +705,7 @@ My solutions to kattis problems
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Linked List
 |  |
