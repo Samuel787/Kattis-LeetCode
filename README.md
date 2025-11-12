@@ -170,6 +170,7 @@ My solutions to kattis problems
 | [2610-closest-prime-numbers-in-range](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3336-water-bottles-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -273,6 +274,7 @@ My solutions to kattis problems
 | [2386-min-max-game](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -724,6 +726,7 @@ My solutions to kattis problems
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Samuel787/Kattis-LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Samuel787/Kattis-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
