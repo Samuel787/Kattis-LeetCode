@@ -1,50 +1,48 @@
-class MedianFinder(object):
+class MedianFinder:
 
     def __init__(self):
-        self.maxHeap = []
-        self.minHeap = []
-        heapq.heapify(self.maxHeap)
-        heapq.heapify(self.minHeap)
+        self.maxHeap = [] # used to store lower values
+        self.minHeap = [] # used to store upper values
 
+    def addNum(self, num: int) -> None:
+        if len(self.maxHeap) == 0 and len(self.minHeap) == 0:
+            heapq.heappush(self.minHeap, num)
+            return
         
-
-    def addNum(self, num):
-        """
-        :type num: int
-        :rtype: None
-        """
-        if len(self.minHeap) == 0:
-            heapq.heappush(self.minHeap, num)
-        elif num >= self.minHeap[0]:
-            heapq.heappush(self.minHeap, num)
+        # rebalancing algo
+        if len(self.maxHeap) == len(self.minHeap):
+            if num >= self.minHeap[0]:
+                heapq.heappush(self.minHeap, num)
+            else:
+                heapq.heappush(self.maxHeap, num * -1)
         else:
-            heapq.heappush(self.maxHeap, num * -1)
-
-        # rebalance
-        if len(self.minHeap) > len(self.maxHeap) + 1:
-            top = heapq.heappop(self.minHeap)
-            heapq.heappush(self.maxHeap, top * - 1)
-
-        elif len(self.maxHeap) > len(self.minHeap) + 1:
-            top = heapq.heappop(self.maxHeap) * -1
-            heapq.heappush(self.minHeap, top)
-
-
-    def findMedian(self):
-        """
-        :rtype: float
-        """
-
-        # print("MinHeap: " + str(self.minHeap) + " maxHeap: " + str(self.maxHeap))
-        if len(self.minHeap) == len(self.maxHeap):
+            odd = None
+            if len(self.maxHeap) > len(self.minHeap):
+                odd = heapq.heappop(self.maxHeap) * -1
+            else:
+                odd = heapq.heappop(self.minHeap)
             
-            return (self.minHeap[0] + self.maxHeap[0] * -1) / 2.0
-        
-        if len(self.minHeap) > len(self.maxHeap):
-            return self.minHeap[0]
-        else:
-            return self.maxHeap[0] * -1
+            if num < odd:
+                heapq.heappush(self.maxHeap, num * -1)
+                heapq.heappush(self.minHeap, odd)
+            else:
+                heapq.heappush(self.minHeap, num)
+                heapq.heappush(self.maxHeap, odd * -1)
 
+        # print("This is minHeap: " + str(self.minHeap) + " and this is maxHeap: " + str(self.maxHeap))
+
+    def findMedian(self) -> float:
+        if len(self.maxHeap) == len(self.minHeap):
+            top = self.maxHeap[0] * -1
+            # print("First top value is: " + str(top))
+            top += self.minHeap[0]
+            # print("now top value is: " + str(top))
+            # print()
+            return top / 2.0
+        elif len(self.maxHeap) > len(self.minHeap):
+            return self.maxHeap[0] * -1
+        else:
+            return self.minHeap[0]
         
 
 
