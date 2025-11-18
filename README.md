@@ -233,6 +233,7 @@ My solutions to kattis problems
 | [0494-target-sum](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0518-coin-change-ii) |
 | [0654-maximum-binary-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/Samuel787/Kattis-LeetCode/tree/master/0772-construct-quad-tree) |
