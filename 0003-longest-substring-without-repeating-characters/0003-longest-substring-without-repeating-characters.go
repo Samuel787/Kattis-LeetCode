@@ -7,14 +7,11 @@ func lengthOfLongestSubstring(s string) int {
     for r < length {
         if idx, ok := idxMap[s[r]]; ok {
             l = max(l, idx + 1)
-            // fmt.Printf("Increment l to %d and r to %d and skip this iteration\n", l, r)
-        } //else {
-            currLength := r - l + 1
-            if currLength > maxLength {
-                maxLength = currLength
-                // fmt.Printf("l is %d, r is %d, max string: %s\n", l, r, s[l:r + 1])
-            }
-        //}
+        }
+        currLength := r - l + 1
+        if currLength > maxLength {
+            maxLength = currLength
+        }
         idxMap[s[r]] = r
         r += 1
     }
