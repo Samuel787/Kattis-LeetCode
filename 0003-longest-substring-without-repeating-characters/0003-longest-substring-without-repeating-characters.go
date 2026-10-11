@@ -1,31 +1,22 @@
 func lengthOfLongestSubstring(s string) int {
-    hashMap := make(map[byte]int)
-    left := 0
-    right := 0
+    length := len(s)
+    l := 0
+    r := 0
     maxLength := 0
-
-    for right < len(s) {
-        hashMap[s[right]]++
-
-        for left < right && hashMap[s[right]] > 1 {
-            hashMap[s[left]]--
-            left++
-        }
-
-        if (right - left + 1) > maxLength {
-            maxLength = (right - left) + 1
-        }
-        right++
+    idxMap := make(map[byte]int)
+    for r < length {
+        if idx, ok := idxMap[s[r]]; ok {
+            l = max(l, idx + 1)
+            // fmt.Printf("Increment l to %d and r to %d and skip this iteration\n", l, r)
+        } //else {
+            currLength := r - l + 1
+            if currLength > maxLength {
+                maxLength = currLength
+                // fmt.Printf("l is %d, r is %d, max string: %s\n", l, r, s[l:r + 1])
+            }
+        //}
+        idxMap[s[r]] = r
+        r += 1
     }
     return maxLength
-    // for idx, val := range s {
-    //     if index, isPresent := hashMap[val]; isPresent {
-    //         i = index + 1
-    //     }
-    //     hashMap[val] = idx
-    //     if (idx - i) > maxLength {
-    //         maxLength = (idx - 1)
-    //     }
-    // }
-    // return maxLength
 }
